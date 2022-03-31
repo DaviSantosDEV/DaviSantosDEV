@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaviSantosDEV
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning Html,Css,Java Sript, React
-- 💞️ I’m looking to collaborate on ...
+- 👨‍💻 To be the best programmed in Brazil
 - 🎶 I"m favorite song Joji Sactuary
 - 📫 How to reach me email: davisantosalmeida7@gmail.com
 
